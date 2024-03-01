@@ -1,0 +1,8 @@
+.container{
+    height: 34em;
+     width: 28em;
+      display: flex;
+       /* flexDirection: "column", gap: "10px" */
+       flex-direction: column;
+       gap: 10px;
+}
